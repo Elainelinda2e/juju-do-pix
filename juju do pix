@@ -11,7 +11,7 @@
     <img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F329044316542285628%2F&psig=AOvVaw24mykNvEZzymlmMQYEkTvi&ust=1747352020428000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPimpuOPpI0DFQAAAAAdAAAAABAM"
     <p class="lead">Eu sou Elaine Linda</p>
     <h1>Eu amo a pintar as unhas, ler literatura brasileira e assistir filmes</h1>
-    <p>Eu 
+    <p>Minhas habilidades</p>
     <div>
             <p class="badge bg-secondary">HTML</p>
             <p class="badge bg-secondary">CSS</p>
@@ -19,11 +19,13 @@
             <p class="badge bg-secondary">Scratch</p>
             <p class="badge bg-secondary">Edição de Vídeo</p>
             <p class="badge bg-secondary">Empresário</p>
-    </div>https://github.com/Elainelinda2e/juju-do-pix/tree/main
+    </div>
   </header>
       <main class="container">
           <h2>Meus projetos</h2>
         <div class="row">
+
+          <!--Projeto 1-->
             <div class="col-md-4">
                 <div class="card" style="width: 18rem;">
                     <img src="" class="card-img-top" alt="">
